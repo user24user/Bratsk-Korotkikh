@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.get_h" />
+          <option value="tuple.get_w" />
+          <option value="tuple.get_y" />
+          <option value="tuple.get_x" />
+          <option value="datetime.time.__add__" />
+          <option value="str.copitalize" />
+          <option value="main.__main__" />
+          <option value="bytes.isprintable" />
+          <option value="main.AddWidget.update_result" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
